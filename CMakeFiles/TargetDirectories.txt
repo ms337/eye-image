@@ -1,0 +1,3 @@
+/Users/msinghal/startup/eyeImage/CMakeFiles/rebuild_cache.dir
+/Users/msinghal/startup/eyeImage/CMakeFiles/edit_cache.dir
+/Users/msinghal/startup/eyeImage/CMakeFiles/Main.out.dir
