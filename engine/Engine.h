@@ -9,5 +9,5 @@ private:
 public:
     Engine(/* args */);
     ~Engine();
-    void process(); //FILE inputImg);
+    int process(int noOfDiv); //FILE inputImg);
 };
